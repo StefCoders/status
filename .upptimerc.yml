@@ -10,8 +10,6 @@ sites:
     url: https://moinestifm.ro
   - name: DeepRadio Listen
     url: https://listen.deepradio.co.uk
-    port: 80
-    check: "tcp-ping"
   - name: MoinestiFM Listen
     url: https://listen.moinestifm.ro
 
