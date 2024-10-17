@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/deepradio.co.uk.ico",
     "slug": "deep-radio",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 398,
     "timeWeek": 404,
     "timeMonth": 397,
     "timeYear": 397,
-    "dailyMinutesDown": {
-      "2024-10-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MoinestiFM",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/moinestifm.ro.ico",
     "slug": "moinesti-fm",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 477,
     "timeDay": 432,
     "timeWeek": 490,
     "timeMonth": 477,
     "timeYear": 477,
-    "dailyMinutesDown": {
-      "2024-10-17": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DeepRadio Listen",
@@ -82,7 +78,7 @@
     "url": "https://listen.moinestifm.ro",
     "icon": "https://icons.duckduckgo.com/ip3/listen.moinestifm.ro.ico",
     "slug": "moinesti-fm-listen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "93.60%",
     "uptimeWeek": "99.09%",
