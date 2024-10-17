@@ -22,19 +22,19 @@
     "url": "https://deepradio.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/deepradio.co.uk.ico",
     "slug": "deep-radio",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 395,
-    "timeDay": 370,
-    "timeWeek": 401,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 397,
+    "timeDay": 398,
+    "timeWeek": 404,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2024-10-17": 3
+      "2024-10-17": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://moinestifm.ro",
     "icon": "https://icons.duckduckgo.com/ip3/moinestifm.ro.ico",
     "slug": "moinesti-fm",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 482,
-    "timeDay": 442,
-    "timeWeek": 499,
-    "timeMonth": 482,
-    "timeYear": 482,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 477,
+    "timeDay": 432,
+    "timeWeek": 490,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-10-17": 2
+      "2024-10-17": 7
     }
   },
   {
