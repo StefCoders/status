@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/listen.moinestifm.ro.ico",
     "slug": "moinesti-fm-listen",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "93.30%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.23%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 723,
     "timeDay": 731,
     "timeWeek": 735,
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-10-17": 97,
+      "2024-10-17": 93,
       "2024-10-09": 20
     }
   }
