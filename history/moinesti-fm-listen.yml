@@ -1,7 +1,7 @@
 url: https://listen.moinestifm.ro
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2024-12-06T23:06:18.571Z
+status: down
+code: 502
+responseTime: 795
+lastUpdated: 2024-12-07T07:27:11.818Z
 startTime: 2024-10-07T20:38:10.058Z
 generator: Upptime <https://github.com/upptime/upptime>
