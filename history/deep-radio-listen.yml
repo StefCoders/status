@@ -1,7 +1,7 @@
 url: https://listen.deepradio.co.uk
-status: up
-code: 200
-responseTime: 674
-lastUpdated: 2025-01-10T23:05:42.002Z
+status: down
+code: 502
+responseTime: 648
+lastUpdated: 2025-01-11T10:38:41.978Z
 startTime: 2024-10-07T20:38:08.392Z
 generator: Upptime <https://github.com/upptime/upptime>
